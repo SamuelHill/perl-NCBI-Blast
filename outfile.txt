@@ -1,0 +1,25 @@
+1  NR_041731 Roseovarius crassostreae 16S ribosomal RNA, partial sequence
+2  NR_042675 Ruegeria scottomollicae strain : LMG 24367 16S ribosomal RNA, partial sequence
+3  NR_042673 Nautella italica strain : LMG 24365 16S ribosomal RNA, partial sequence
+4  NR_044158 Pelagicola litoralis strain CL-ES2 16S ribosomal RNA, partial sequence
+5  NR_044424 Roseovarius aestuarii strain SMK-122 16S ribosomal RNA, partial sequence
+6  NR_041454 Ruegeria mobilis strain NBRC 101030 16S ribosomal RNA, partial sequence
+7  NR_028727 Ruegeria pomeroyi strain DSS-3 16S ribosomal RNA, complete sequence
+8  NR_042376 Yangia pacifica strain : DX5-10 16S ribosomal RNA, partial sequence
+9  NR_028728 Roseovarius nubinhibens ISM 16S ribosomal RNA, partial sequence
+10 NR_026040 Octadecabacter arcticus strain 238 16S ribosomal RNA, partial sequence
+11 NR_027580 Octadecabacter antarcticus strain 307 16S ribosomal RNA, partial sequence
+12 NR_043449 Ruegeria atlantica strain IAM14463 16S ribosomal RNA, partial sequence
+13 NR_029215 Rhodobacter sphaeroides strain 2.4.1 16S ribosomal RNA, complete sequence
+14 NR_044471 Thalassobacter arenae strain GA2-M15 16S ribosomal RNA, partial sequence
+15 NR_044437 Seohicola saemankumensis strain SD-15 16S ribosomal RNA, partial sequence
+16 NR_042585 Rhodobacter megalophilus strain : JA194 16S ribosomal RNA, partial sequence
+17 NR_043932 Pseudoruegeria aquimaris strain SW-255 16S ribosomal RNA, partial sequence
+18 NR_043936 Sulfitobacter marinus strain SW-265 16S ribosomal RNA, partial sequence
+19 NR_029197 Silicibacter lacuscaerulensis ITI-1157 16S ribosomal RNA, partial sequence
+20 NR_043564 Roseovarius pacificus strain 81-2 16S ribosomal RNA, partial sequence
+21 NR_043547 Sulfitobacter litoralis strain Iso 3 16S ribosomal RNA, partial sequence
+22 NR_043300 Shimia marina strain CL-TA03 16S ribosomal RNA, partial sequence
+23 NR_026472 Sulfitobacter mediterraneus strain CH-B427 16S ribosomal RNA, partial sequence
+24 NR_026418 Sulfitobacter pontiacus ChLG-10 16S ribosomal RNA, partial sequence
+25 NR_027593 Roseobacter litoralis Och 149 16S ribosomal RNA, partial sequence
